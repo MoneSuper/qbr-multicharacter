@@ -1,2 +1,2 @@
 # qbr-multicharacter
-RedM for QBR-Framework
+Multicharacter for RedM QBCore
