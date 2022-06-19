@@ -1,7 +1,7 @@
 # qbr-multicharacter
 Multicharacter for RedM QBCore
 
-Remade by Andyuk
+Thanks to AndyUK: https://github.com/Andyauk
 
 A reskin/rework look for the qbr-multicharacter latest versionm.
 
